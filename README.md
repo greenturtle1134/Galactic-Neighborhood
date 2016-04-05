@@ -1,6 +1,6 @@
 # Planet Packs for Galactic Neighborhood
 
-**Redistributed version of compatible packs which are no longer available**
+**Redistributed version of compatible packs that are no longer available**
 
 ### Currently Available:
 
